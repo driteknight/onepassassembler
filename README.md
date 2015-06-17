@@ -1,2 +1,2 @@
 # onepassassembler
-One Pass Assembler using Lex and Yacc for MASM 8086
+One Pass Assembler using Lex and Yacc for Microprocessor 8086
