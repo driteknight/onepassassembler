@@ -1,0 +1,1 @@
+MOV BX, ARR[SI]
