@@ -1,4 +1,4 @@
-# onepassassembler
+# One Pass Assembler
 One Pass Assembler using Lex and Yacc for Microprocessor 8086
 
 Goto folder src. Run the script compile.sh with the file name
